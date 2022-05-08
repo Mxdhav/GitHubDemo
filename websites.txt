@@ -1,0 +1,14 @@
+cscareerquestions.com
+mail=raomadhav1997@gmail.com
+pass=Madhav@1997
+
+
+Selenium:
+leafground.com
+selectors hub
+propath
+
+api:
+dummy.restapiexample.com
+
+
